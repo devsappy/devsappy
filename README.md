@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saptarshi</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
-- 🌱 I’m currently learning **Fullstack web sev**
+- 🌱 I’m currently learning **Fullstack web dev**
 
 - 👨‍💻 All of my projects are available at [www.linkedin.com/in/saptarshi-chattopadhyay-05380622b](www.linkedin.com/in/saptarshi-chattopadhyay-05380622b)
 
